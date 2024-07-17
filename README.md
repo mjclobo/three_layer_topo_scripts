@@ -21,5 +21,5 @@ Figure 7: vert\_trans\_ex\_plot.jl
 Figure 8: CV\_ratio\_vert\_plot.jl
 
 
-Data required to generate Figures 7 and 8 can either be generated
+Data required to generate Figures 2, 7, and 8 can either be generated
 from simulation output, or received directly by emailing mattlobo@princeton.edu.
